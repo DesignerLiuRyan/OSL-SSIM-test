@@ -1,4 +1,4 @@
-vrayMtlConverter.exe放到到根目录下
+vrayMtlConverter.exe放到到根目录下，使用V-Ray Standalone渲染器渲染。
 
 1，将准备转换测试对比的vrscene放入scene文件夹，有rename函数统一重新命名
 
